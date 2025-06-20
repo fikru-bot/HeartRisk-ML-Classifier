@@ -62,4 +62,4 @@ This project applies classification algorithms to medical data to identify the r
 1. Clone the repo:
    ```bash
    git clone https://github.com/fikru-bot/HeartRisk-ML-Classifier.git
-   cd config-server
+   cd HeartRisk-ML-Classifier
